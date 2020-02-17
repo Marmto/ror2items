@@ -1,0 +1,16 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "EZ",
+	"DIFFICULTY_BAR_1": "Easy...",
+	"DIFFICULTY_BAR_2": "Moyenne",
+	"DIFFICULTY_BAR_3": "softer than a sock",
+	"DIFFICULTY_BAR_4": "solid as a rock",
+	"DIFFICULTY_BAR_5": "ay woah",
+	"DIFFICULTY_BAR_6": "AY WOAH",
+	"DIFFICULTY_BAR_7": "I CAN SMELL YOU",
+	"DIFFICULTY_BAR_8": "Nigga its over",
+	"DIFFICULTY_BAR_9": "BRUHBRUHBRUH",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Level\n</style> {0}",
+	}
+}
