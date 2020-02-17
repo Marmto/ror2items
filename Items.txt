@@ -40,7 +40,7 @@
 	"ITEM_TOOTH_PICKUP": "Killing an enemy drop a healing orb on kill that heals <color=#CCCC33>6(+6)</color> hp.",
 	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.", 
 
-	"ITEM_CRITGLASSES_NAME": "MLG PRO GAMING GUNNAR LENSES BRO",
+	"ITEM_CRITGLASSES_NAME": "Stans Sunglasses",
 	"ITEM_CRITGLASSES_PICKUP": "<color=#CCCC33>10%(+10%)</color> chance to 'Critically Strike', dealing double damage.",
 	"ITEM_CRITGLASSES_DESC": "Your attacks have a <style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to '<style=cIsDamage>Critically Strike</style>', dealing <style=cIsDamage>double damage</style>.", 
 
@@ -175,8 +175,8 @@
 	"ITEM_STUNCHANCEONHIT_PICKUP": "<color=#CCCC33>5%(+5%)</color> Chance to stun on hit for 2 seconds.",
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5% on stack)</style> chance on hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 seconds</style>.",
 
-	"ITEM_LUNARDAGGER_NAME": "OBAMA SAYS",
-	"ITEM_LUNARDAGGER_PICKUP": "Big Dicks Only. Double your damage... <color=#FF7F7F>\BUT halve your health.</color>\n",
+	"ITEM_LUNARDAGGER_NAME": "Big Dicks Only",
+	"ITEM_LUNARDAGGER_PICKUP": "If youre under 9 inches, you cannot use this item. Double your damage... <color=#FF7F7F>\BUT halve your health.</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "Big Dicks Only. Increase base damage by <style=cIsDamage>100%</style> <style=cStack>(+100% per stack)</style>. <style=cIsHealing>Reduce maximum health by 50%</style> <style=cStack>(+50% per stack)</style>.",
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god's designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
 
@@ -195,7 +195,7 @@
 	"ITEM_ALIENHEAD_DESC": "<style=cIsUtility>Reduce skill cooldowns</style> by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
 	"ITEM_ALIENHEAD_LORE": "Order: \"Alien Head\"\r\nTracking Number: 76******\r\nEstimated Delivery: 07\/13\/2056\r\nShipping Method:  High Priority\/Biological\r\nShipping Address: Solomon, ???, Backwaters, Mars\r\nShipping Details:\r\n\r\nImportant sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot. Helps energize the kinfolk and can be used for extra human strength and agility. Important.\r\n",	
 
-	"ITEM_TALISMAN_NAME": "Its ya boi, skinny penis",
+	"ITEM_TALISMAN_NAME": "Ahaha... Its ya boi, skinny penis",
 	"ITEM_TALISMAN_PICKUP": "Kills reduce equipment cooldown by <color=#CCCC33>4s(+2s)</color>.",
 	"ITEM_TALISMAN_DESC": "<style=cIsDamage>Kills reduce</style> <style=cIsUtility>equipment cooldown</style> by <style=cIsUtility>4s</style> <style=cStack>(+2s per stack)</style>.",
 
@@ -231,7 +231,7 @@
 	"ITEM_BOSSDAMAGEBONUS_PICKUP": "Deal an extra <color=#CCCC33>20%(+20%)</color> damage to bosses.",
 	"ITEM_BOSSDAMAGEBONUS_DESC": "Deal an additional <style=cIsDamage>20%</style> damage <style=cStack>(+20% per stack)</style> to bosses.",
 	
-	"ITEM_SPRINTARMOR_NAME": "One (1) Buttcheek",
+	"ITEM_SPRINTARMOR_NAME": "Shitty toboggan",
 	"ITEM_SPRINTARMOR_PICKUP": "Increase armor by <color=#CCCC33>30(+30)</color> while sprinting.",
 	"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>30</style> <style=cStack>(+30 per stack)</style> <style=cIsUtility>while sprinting</style>.",
 	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",

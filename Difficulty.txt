@@ -9,7 +9,7 @@
 	"DIFFICULTY_BAR_5": "ay woah",
 	"DIFFICULTY_BAR_6": "AY WOAH",
 	"DIFFICULTY_BAR_7": "I CAN SMELL YOU",
-	"DIFFICULTY_BAR_8": "Nigga its over",
+	"DIFFICULTY_BAR_8": "your jollies are mine",
 	"DIFFICULTY_BAR_9": "BRUHBRUHBRUH",
 	"STAGE_COUNT_FORMAT" : "<style=cSub>Level\n</style> {0}",
 	}
