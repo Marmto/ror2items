@@ -198,6 +198,12 @@
 	"ROBOBALLMINI_BODY_NAME" : "Smol Ball",
 	"NULLIFIER_BODY_NAME" : "Purple goo man",
 
+		"PARENT_BODY_NAME" : "Parent",
+	"PARENT_BODY_LORE" : "<style=cMono>\r\n$ Transcribing image... done.\r\n$ Resolving... done.\r\n$ Outputting text strings... done.\r\nComplete!\r\n</style>\r\n\r\nThis is the logbook entry of D. Furthen, naturalist for the UESC [Redacted] in conjunction with the UESC Research and Documentation of Outer Life. I am joined by my good friend Tharson, who is keeping me safe through this journey.\r\n\r\n---------------------\r\n\r\nWhile assessing our landing site and the small ghostly creatures that now lay, unfortunately flat, under our ship, we heard loud booming footsteps approaching. We stepped away to observe this lifeform\u2019s behavior from afar.\r\n\r\nI will describe its properties below. I have assigned their common name as \u2018Parent\u2019.\r\n\r\n\u2022 Tall, lumbering giants, eerily humanoid. Where you would expect to see a face there is only a hole, giving a blank look to them. Their ghostly skin appears to run like wax but even so it does not seem to congeal at their feet.\r\n\r\n\u2022 Their large hands have opposable thumbs. This could possibly mean that they have the capability for intelligence, using tools or testing their environment with dextrous manipulation.\r\n\r\n\u2022 If we hadn\u2019t taken up this vantage point when we did, the creature would have been upon us before we realized it. It\u2019s distant footstep sounds betrayed how quickly it closed the distance.\r\n\r\n\u2022 I had Tharson throw a stone near the creature and suddenly any signs of intelligence faded, replaced with primal fury. Deadly, wild force rained down as it smashed the ground with its fists, searching for the perpetrator of its peaceful moment. Our ship was not OK from this encounter.\r\n",
+	"MINIMUSHROOM_BODY_NAME" : "Mini Mushrum",
+	"MINIMUSHROOM_BODY_LORE" : "<style=cMono>\r\n$ Transcribing image... done.\r\n$ Resolving... done.\r\n$ Outputting text strings... done.\r\nComplete!\r\n</style>\r\n\r\nThis is the logbook entry of D. Furthen, naturalist for the UESC [Redacted] in conjunction with the UESC Research and Documentation of Outer Life. I am joined by my good friend Tharson, who is keeping me safe through this journey.\r\n\r\n---------------------\r\n\r\nOn a routine food gathering trek we happened upon a vast fungal grove with towering fungi. Thinking we would take some samples back to test if they were edible, we noticed some of the smaller variety sprout up from the ground and circle around us.\r\n\r\nI will describe its properties below. I have assigned their common name as \u2018Mini Mushrum\u2019.\r\n\r\n\u2022 \u2018Mini\u2019 is a relative term here, as these mobile mushrooms were larger than Tharson. The subtle glow on the underside of their cap is probably to scare away predators, advertising that they are dangerous to eat.\r\n\r\n\u2022 Waddling around on short, stubby legs makes them seem quite unsuited for walking. They comically bump into things as they fret about. Perhaps their eyeseight is poor from living in the dark?\r\n\r\n\u2022 After a long time studying their movements, I suggested to Tharson to retrieve a sample from one to take back with us. The one that the sample was taken from began to flee as the others began shaking, spilling their spores into the air. Our air filtration warnings went off so we left before the cloud of fungal gas became too overwhelming. We did not eat the sample.\r\n",
+	"POD_BODY_NAME" : "Ancestral Pod",
+
 	//[BOSS]
 	"BEETLEQUEEN_BODY_NAME": "ew gross bug",
 	"BEETLEQUEEN_BODY_SUBTITLE": "KILL IT!!!",
@@ -232,6 +238,11 @@
 	"SCAVLUNAR4_BODY_NAME" : "Guragura the Gooped",
 	"SCAVLUNAR_BODY_SUBTITLE" : "THIEF!!!",
 
+	"GRANDPARENT_BODY_NAME": "Grandparent",
+	"GRANDPARENT_BODY_SUBTITLE": "Aberrant Caretaker",
+	"ARTIFACTSHELL_BODY_NAME" : "Artifact Reliquary",
+	"ARTIFACTSHELL_BODY_DESCRIPTION" : "Stabilized",
+
 
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "Gunner Drone",
@@ -257,5 +268,12 @@
 	"SKILL_LUNAR_PRIMARY_REPLACEMENT_DESCRIPTION" : "Fire a flurry of <style=cIsUtility>tracking shards</style> that deal detonate after a delay, dealing <style=cIsDamage>120% damage</style>.",
 	"SKILL_LUNAR_UTILITY_REPLACEMENT_NAME" : "Shadowfade",
 	"SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION" : "Fade away, becoming <style=cIsUtility>intangible</style> and <style=cIsUtility>gaining movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>25% of your maximum health</style>.",
+	
+	"MAULINGROCK_BODY_NAME": "Flying Rock",
+	"TIMECRYSTAL_BODY_NAME" : "Time Crystal",
+
+	"SKILL_GENERIC_CANCEL_NAME" : "Cancel",
+	"SKILL_GENERIC_CANCEL_DESCRIPTION" : "Cancel the skill.",
+
 	}
 }

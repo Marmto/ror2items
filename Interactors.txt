@@ -210,5 +210,15 @@
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "EXPLOOOOOSION",
+
+	
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Activate Unknown Artifact...?",
+
+	"PORTAL_DIALER_NAME" : "Compound Generator",
+	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Submit Formula",
 	}
 }
